@@ -22,3 +22,11 @@ If you choose to use one, you will need to look in the file and change the URL o
 
 ## Security
 These are local development utilities. Do not expose them in public repositories or environments.
+
+## Tags
+- WordPress
+- local-development
+- docker
+- admin
+- php
+- shell-scripts
