@@ -1,0 +1,2 @@
+# Ignore generated files and local artifacts
+.snapshots/
